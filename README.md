@@ -4,9 +4,9 @@ Winston transport implementation for using with mysql databases.
 
 ## Dependencies
 
-* winston [[find it here]](https://www.npmjs.com/package/winston)
+* winston (^3.5.1) [[find it here]](https://www.npmjs.com/package/winston)
 * winston-transport [dependency for winston]
-* sequelize [[find it here]](http://docs.sequelizejs.com/)
+* sequelize (^5.3.3) [[find it here]](http://docs.sequelizejs.com/)
 
 ## Usage
 ```javascript
@@ -38,8 +38,3 @@ const logger = new winston.Logger({
     }
 }
 ```
-
-## Creating NPM package
-
-Inside the directory `winston-mysql-transport` run the commend `npm init` and follow the instructions.
-As a main package file select `index.js`. Select License and insert all remaining data.

@@ -1,0 +1,30 @@
+{
+  "name": "winston-mysql-transport",
+  "version": "1.0.0",
+  "description": "Winston transport implementation for using with mysql databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absolvent/winston-mysql-transport.git"
+  },
+  "keywords": [
+    "winston",
+    "mysql",
+    "transport",
+    "logger",
+    "logging"
+  ],
+  "author": "Blazej Andula <blazej.andula@absolvent.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absolvent/winston-mysql-transport/issues"
+  },
+  "homepage": "https://github.com/absolvent/winston-mysql-transport#readme",
+  "dependencies": {
+    "winston": "^3.2.1",
+    "sequelize": "^5.3.3"
+  }
+}
