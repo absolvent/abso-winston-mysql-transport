@@ -1,4 +1,4 @@
-# winston-mysql-transport
+# abso-winston-mysql-transport
 
 Winston transport implementation for using with mysql databases.
 
@@ -11,7 +11,7 @@ Winston transport implementation for using with mysql databases.
 ## Usage
 ```javascript
 const winston = require('winston');
-const MySQLTransport = require('winston-mysql-transport').WinstonMySQLTransport;
+const MySQLTransport = require('abso-winston-mysql-transport').WinstonMySQLTransport;
 const logger = new winston.Logger({
     transports: [
         new MySQLTransport(

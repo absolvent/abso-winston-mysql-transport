@@ -1,5 +1,5 @@
 {
-  "name": "winston-mysql-transport",
+  "name": "abso-winston-mysql-transport",
   "version": "1.0.0",
   "description": "Winston transport implementation for using with mysql databases",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "logger",
     "logging"
   ],
-  "author": "Blazej Andula <blazej.andula@absolvent.pl>",
+  "author": "absoadmin <admin@absolvent.pl>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/absolvent/winston-mysql-transport/issues"
