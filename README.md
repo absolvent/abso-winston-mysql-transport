@@ -7,6 +7,7 @@ Winston transport implementation for using with mysql databases.
 * winston (^3.5.1) [[find it here]](https://www.npmjs.com/package/winston)
 * winston-transport [dependency for winston]
 * sequelize (^5.3.3) [[find it here]](http://docs.sequelizejs.com/)
+* mysql2 (^1.6.5) [[find it here]](https://www.npmjs.com/package/mysql2)
 
 ## Usage
 ```javascript

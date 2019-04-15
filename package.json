@@ -25,6 +25,7 @@
   "homepage": "https://github.com/absolvent/winston-mysql-transport#readme",
   "dependencies": {
     "winston": "^3.2.1",
-    "sequelize": "^5.3.3"
+    "sequelize": "^5.3.3",
+    "mysql2": "^1.6.5"
   }
 }
